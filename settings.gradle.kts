@@ -21,3 +21,7 @@ dependencyResolutionManagement {
 
 rootProject.name = "AndroidCompose"
 include(":app")
+include(":core:ui")
+include(":core:domain")
+include(":features:account")
+include(":features:playcompose")
