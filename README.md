@@ -5,6 +5,10 @@
 - https://github.com/myofficework000/Jetpack-Compose-All-In-One-Guide/tree/master
 - https://github.com/SmartToolFactory/Jetpack-Compose-Tutorials
 - https://github.com/vinaygaba/Learn-Jetpack-Compose-By-Example
+- cardview
+- https://stackoverflow.com/questions/74775494/how-to-set-card-elevation-in-jetpack-compose-with-material3
+- locancontentalpha
+- https://stackoverflow.com/questions/72574071/unable-to-change-text-emphasis-using-localcontentalpha-in-material-design-3
 - [Navigation Drawer](https://github.com/Foxpace/JetpackCompose-AppDrawerExample/tree/master)
 - [Navigation with Multiple Nav Controller](https://github.com/bajpaiNikhil/navigationInCompose/tree/master)
 
@@ -55,7 +59,7 @@ And also you need to add some dependencies for Jetpack Compose.
 //compose_version = '1.0.2'
 implementation 'androidx.activity:activity-compose:1.3.0-alpha06'
 implementation "androidx.compose.ui:ui:$compose_version"
-implementation "androidx.compose.material:material:$compose_version"
+implementation "androidx.compose.material3:material:$compose_version"
 implementation "androidx.compose.ui:ui-tooling:$compose_version"
 ```
 ## Screenshots of the Weather Application

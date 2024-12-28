@@ -6,7 +6,7 @@ plugins {
 
 android {
     namespace = "com.devzone.compose"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.devzone.compose"
